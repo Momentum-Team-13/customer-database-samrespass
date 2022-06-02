@@ -1,1 +1,4 @@
-#castList {display:flex;}
+#castList {display:flex;flex-wrap:wrap;}
+.wrap {width: 900px;margin:auto;}
+.customerName {text-transform: capitalize;}
+.profilePic {border-radius: 20px}
